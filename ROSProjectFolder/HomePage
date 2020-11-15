@@ -1,0 +1,96 @@
+<html lang = "en">
+<head>
+    <meta charset="UTF-8">
+    <title> Richard's Outdoor Store </title>
+    <link rel="stylesheet" href="HPC.css">
+</head>
+<body>
+   
+    
+    
+    <div class="container"> 
+<div class="navbar">
+<div class="logo">
+    <img src="Screen%20Shot%202020-11-13%20at%2011.54.48%20AM.png" width="450px">
+    
+    
+    
+    </div>  
+    <nav>
+    <ul>
+        <div class="button">
+            <form action="file:///Users/williemathis/Desktop/Checkouttest.html">
+    <input type="submit" value="Checkout" />
+</form>
+        <form action="file:///Users/williemathis/Desktop/About.html">
+    <input type="submit" value="About" />
+</form>
+        <form action="file:///Users/williemathis/Desktop/shoppingcart.html">
+    <input type="submit" value="Shopping Cart" />
+</form>
+      
+
+        </div>
+    </ul>
+        
+    </nav>
+        </div>
+    <div class="row">
+    <div class="col">
+        
+        <h1> “Richard is the Best, Forget the Rest!”!</h1>
+        
+    
+    </div>
+</div>
+</html>
+
+    
+<div class="small container">  
+     <h2> Featured Products </h2>                   
+    <div class="row">
+        <div class="col41">
+        <img src ="Unknown.jpeg""width="50px" "height="300px">
+            <h4> Outside Camping Tent </h4>
+            <p> $100.00 </p>
+             
+             </div>
+         </div>
+         
+                                                                                                                           
+    
+     <div class="small container">  
+                  
+    <div class="row">
+        <div class="col-42">
+        <img src ="images-2.jpeg""width="500px height="300px">
+            <h4> Men's Pro Mountain Bike</h4>
+            <p> $480.00 </p>
+             
+             </div>
+        
+     <div class="small container">                    
+    <div class="row">
+        <div class="col-43">
+        <img src ="images-9.jpeg"width="750px height="300px>
+            <h4> Tennis Kit 3-in-1</h4>
+            <p> $54.99 </p>
+        </div>
+    
+    <div class="small container">                    
+    <div class="row">
+        <div class="col-44">
+        <img src ="Unknown-1.jpeg" "width="500px height="300px">
+            <h4> Hiking boots </h4>
+            <p> $45.99 </p>
+            
+             </div>
+         </div>
+         </div>
+         
+      </div>   
+         
+                                                                                                                           
+                                                                                                                           
+</body>
+        </html>
