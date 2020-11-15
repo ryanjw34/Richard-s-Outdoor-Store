@@ -1,0 +1,31 @@
+"use strict";
+const express = require("express");
+const homepage = express();
+var path = require('path');
+const port = 3000;
+
+homepage
+  .get("/", (req, res) => {
+    console.log(req.url);
+    res.sendFile(path.join(__dirname + '/Rick_Homepage.html')); 
+  })
+//  .post("/", (req, res) => {})
+//  .patch("/", (req, res) => {})
+//  .put("/", (req, res) => {})
+//  .delete("/", (req, res) => {});
+
+homepage.get("/old", (req, res) => {
+  res.redirect(301, "/new");
+});
+
+homepage.get("/new", (req, res) => {
+  res.send("<h2>NEW</h2>");
+});
+
+homepage.listen(port, err => {
+  if (err) {
+    console.log("there was a problem", err);
+    return;
+  }
+  console.log("listening on port 3000");
+});
