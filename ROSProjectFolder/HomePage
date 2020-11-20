@@ -1,116 +1,120 @@
 <html lang = "en">
-<head<html lang = "en">
+<head 
+      <html lang = "en">
 <head>
     <meta charset="UTF-8">
     <title> Richard's Outdoor Store </title>
-    <link rel="stylesheet" href="Css%20HomePage">
+    <link rel="stylesheet" href="HPC.css">
 </head>
 <body>
    
     
     
-    <div class="container"> 
-<div class="navbar">
+<div class="container">
+    <div class="navbar">
 <div class="logo">
-    <img src="StoreLogo.png" width="450px">
+    <img src="StoreLogo.png" width="125px">
     
-    
-    
-    </div>  
+    </div>
     <nav>
-    <ul>
-        <div class="button">
+        <ul>
+            <div class="button">
             <form action="shoppingcart.html">
     <input type="submit" value="Shopping Cart" />
 </form>
         <form action="About.html">
     <input type="submit" value="About" />
 </form>
-   
 
-        </div>
-    </ul>
         
+        </ul>
+    
     </nav>
-        </div>
+    </div>
     <div class="row">
-    <div class="col">
+        <div class=".col">
+    <h1> “Richard is the Best, Forget the Rest!”</h1>
+            
+            
+        </div>
+        <div class=".col">
+        <img src="Homepage%20outdoors.jpg">
+             
+             </div>
+    </div>
+    </div>
+    
+    
+ <!------ Featured Products ------>
+    
+    <div class="catergories">
+        <h1> Featured Products! </h1>
+        <div class="smallcontainer"></div>
+    <div class="row">
         
-        <h1> “Richard is the Best, Forget the Rest!”!</h1>
-        
+        <div class="col41">
+        <img src="Outside%20Camping%20Tent%20.jpg">
+            <h2> Outside Camping Tent</h2>
+            <p> $100.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Tennis%203in1.jpg">  
+        <h2> Tennis 3-in-1</h2>
+        <p> $54.99</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Catchers%20Gear.jpg"> 
+        <h2> Catchers Gear</h2>
+            <p> $100.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Mountain%20Bike%20.jpg">
+        <h2> Mountain Bike</h2>
+            <p> $215.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Soccer%20Ball.jpeg">
+        <h2> Soccer Ball</h2>
+            <p> $50.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Hiking%20Boots.jpeg">
+        <h2> Hiking Boots</h2>
+            <p> $85.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Football.jpeg">
+        <h2> Football </h2>
+            <p> $25.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Outdoor%20Sleeping%20Bag.jpeg">
+        <h2> Outdoor Sleeping Bag</h2>
+            <p> $90.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        <div class="col41">
+        <img src="Fire%20Starter.jpeg">
+        <h2> Fire Starter</h2>
+            <p> $10.00</p>
+            <a href="">Add To Cart</a>
+        </div>
+        </div>
     
     </div>
-</div>
-</html>
 
     
-<div class="small container">  
-     <h2> Featured Products </h2>                   
-    <div class="row">
-        <div class="col41">
-        <img src ="Outside%20Camping%20Tent%20.jpeg""width="50px" "height="300px">
-            <h4> Outside Camping Tent </h4>
-            <p> $100.00 </p>
-             
-             </div>
-         </div>
-        
-<div class="small container">  
-                   
-    <div class="row">
-        <div class="col41">
-        <img src ="Outside%20Camping%20Tent%20.jpeg""width="50px" "height="300px">
-            <h4> Insulated Water Bottle </h4>
-            <p> $100.00 </p>
-             
-             </div>
-         </div>
-        
-<div class="small container">  
-                   
-    <div class="row">
-        <div class="col41">
-        <img src ="Outside%20Camping%20Tent%20.jpeg""width="50px" "height="300px">
-            <h4>Catcher's Gear and Mask Set </h4>
-            <p> $100.00 </p>
-             
-             </div>
-         </div>
-         
-                                                                                                                           
     
-     <div class="small container">  
-                  
-    <div class="row">
-        <div class="col-42">
-        <img src ="Mountain%20Bike%20.jpeg""width="500px height="300px">
-            <h4> Men's Pro Mountain Bike</h4>
-            <p> $480.00 </p>
-             
-             </div>
-        
-     <div class="small container">                    
-    <div class="row">
-        <div class="col-43">
-        <img src ="Tennis%203in1.jpeg"width="750px height="300px>
-            <h4> Tennis Kit 3-in-1</h4>
-            <p> $54.99 </p>
-        </div>
     
-    <div class="small container">                    
-    <div class="row">
-        <div class="col-44">
-        <img src ="Hiking%20Boots.jpeg" "width="500px height="300px">
-            <h4> Hiking boots </h4>
-            <p> $45.99 </p>
-            
-             </div>
-         </div>
-         </div>
-         
-      </div>   
-         
-                                                                                                                           
-                                                                                                                           
-</body>
-        </html>
+    
+    
+    
+    </body>
+</html>
