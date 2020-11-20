@@ -20,16 +20,13 @@
     <nav>
     <ul>
         <div class="button">
-            <form action="checkout.html">
-    <input type="submit" value="Checkout" />
+            <form action="shoppingcart.html">
+    <input type="submit" value="Shopping Cart" />
 </form>
         <form action="About.html">
     <input type="submit" value="About" />
 </form>
-        <form action="ShoppingCart.html">
-    <input type="submit" value="Shopping Cart" />
-</form>
-      
+   
 
         </div>
     </ul>
@@ -53,6 +50,28 @@
         <div class="col41">
         <img src ="Outside%20Camping%20Tent%20.jpeg""width="50px" "height="300px">
             <h4> Outside Camping Tent </h4>
+            <p> $100.00 </p>
+             
+             </div>
+         </div>
+        
+<div class="small container">  
+                   
+    <div class="row">
+        <div class="col41">
+        <img src ="Outside%20Camping%20Tent%20.jpeg""width="50px" "height="300px">
+            <h4> Insulated Water Bottle </h4>
+            <p> $100.00 </p>
+             
+             </div>
+         </div>
+        
+<div class="small container">  
+                   
+    <div class="row">
+        <div class="col41">
+        <img src ="Outside%20Camping%20Tent%20.jpeg""width="50px" "height="300px">
+            <h4>Catcher's Gear and Mask Set </h4>
             <p> $100.00 </p>
              
              </div>
